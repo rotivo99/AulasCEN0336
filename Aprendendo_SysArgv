@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+import sys
+
+print(sys.argv[0])
+print("Essa linha é o título")
+
+print(sys.argv[1])
+print("Aqui está o segundo argumento do meu texto")
+
+print(sys.argv[2])
+print("E aqui está o terceiro")
