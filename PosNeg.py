@@ -15,6 +15,6 @@ elif numero > 0:
     if numero > 50:
         print(sys.argv[1], "is a positive number bigger than 50.")
         if numero % 3 == 0:
-            print(sys.argv[1], "is an odd positive number bigger than 50.")
+            print(sys.argv[1], "is an positive number bigger than 50 and divisible by three.")
 else:
     print("That's just zero.")
